@@ -16,3 +16,15 @@
 美国 Apple Store 里购买APP，需要用美国的支付方式，如果你没有美国的支付方式，可以去购买美国 Apple ID 礼品卡，给自己的账号先充值，再购买APP。<br/>
 或者去Apple官方购买礼品卡给自己充值，需要美国支付方式或者信用卡。<br/>
 官网购买地址：https://www.apple.com/shop/buy-giftcard/giftcard/25-dollars
+
+### 常见问题：
+在注册时，如果出现以下提示，解决方法：
+1、建议使用手机浏览器注册，清理缓存，或者用无痕模式
+2、关闭WIFI，使用移动数据流量打开网页注册
+3、邮箱和手机号没有注册过AppleID账号
+
+目前无法完成你的请求
+此时无法创建你的账户。
+Your request could not be completed at this time.
+Your account cannot be created at this time.
+
