@@ -18,13 +18,13 @@
 官网购买地址：https://www.apple.com/shop/buy-giftcard/giftcard/25-dollars
 
 ### 常见问题：
-在注册时，如果出现以下提示，解决方法：
-1、建议使用手机浏览器注册，清理缓存，或者用无痕模式
-2、关闭WIFI，使用移动数据流量打开网页注册
-3、邮箱和手机号没有注册过AppleID账号
+在注册时，如果出现以下提示，解决方法：<br/>
+1、建议使用手机浏览器注册，清理缓存，或者用无痕模式<br/>
+2、关闭WIFI，使用移动数据流量打开网页注册<br/>
+3、邮箱和手机号没有注册过AppleID账号<br/>
 
-目前无法完成你的请求
-此时无法创建你的账户。
-Your request could not be completed at this time.
-Your account cannot be created at this time.
+目前无法完成你的请求<br/>
+此时无法创建你的账户。<br/>
+Your request could not be completed at this time.<br/>
+Your account cannot be created at this time.<br/>
 
